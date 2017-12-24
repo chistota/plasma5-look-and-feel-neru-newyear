@@ -1,0 +1,29 @@
+[kdeglobals][KDE]
+widgetStyle=kvantum
+
+[kdeglobals][General]
+ColorScheme=neru-light
+
+[kdeglobals][Icons]
+Theme=neru-newyear-light
+
+[plasmarc][Theme]
+name=neru-newyear-light-desktop
+
+[kcminputrc][Mouse]
+cursorTheme=breeze_cursors
+
+#Ссылка на тему 
+[kwinrc][DesktopSwitcher]
+LayoutName=org.kde.neru-newyear-light.desktop
+
+#Привязка верхней панели 
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__NeruAurоrаеLight
+
+#Привязка стиля графического элемента 
+[kdeglobals][KDE] 
+widgetStyle=QtCurve
+
+
